@@ -7,3 +7,9 @@ Fell free to PR and make front-end world one more time friendly.
 
 ###### PostCSS
 * http://postcss.parts/ - A searchable catalog of PostCSS plugins
+
+
+##### React
+
+###### React tutorial
+* http://academy.plot.ly/react/1-introduction/ - Basics by [@mxstbr](https://twitter.com/@mxstbr)
