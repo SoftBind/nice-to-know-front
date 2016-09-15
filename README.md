@@ -11,6 +11,12 @@ Fell free to PR and make front-end world one more time friendly.
 
 ## React
 
+##### React inline styles
+
+###### Radium
+* https://github.com/FormidableLabs/radium - A toolchain for React component styling
+* https://gist.github.com/nickpiesco/9bef21b4f9e236b4430e - Radium good practise
+
 ##### React tutorial
 * http://academy.plot.ly/react/1-introduction/ - Basics by [@mxstbr](https://twitter.com/@mxstbr)
 
